@@ -22,6 +22,11 @@ This model is a fine-tuned version of [microsoft/speecht5_tts](https://huggingfa
 It achieves the following results on the evaluation set:
 - Loss: 0.3763
 
+SAMPLE TEXT : "hello ,few technical terms i used while fine tuning are  API and REST and CUDA and TTS."
+<audio controls src="https://cdn-uploads.huggingface.co/production/uploads/66f64964584cae45b5494560/JYJmDNPHnBRLuvqGTJQSu.wav"></audio>
+
+  
+
 ## Model description
 
 More information needed
