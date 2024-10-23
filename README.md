@@ -9,7 +9,7 @@ tags:
 datasets:
 - custom
 model-index:
-- name: 'SpeechT5 TTS technical train1 '
+- name: 'SpeechT5 TTS technical train2 '
   results: []
 ---
 
