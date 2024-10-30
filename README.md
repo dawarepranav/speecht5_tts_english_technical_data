@@ -1,5 +1,21 @@
-| :label: **Field**        | :page_facing_up: **Description**                     |
-|--------------------------|-----------------------------------------------------|
+| :label: **PAGE**                   | :page_facing_up: **LINK**                                                                             |                        
+|-------------------------------------|------------------------------------------------------------------------------------------------------|                   
+| **MARATHI TTS GITHUB LINK  LINK**                | [MARATHI TTS REPO](https://github.com/dawarepranav/speechT5_marathi_finetuned-)         |
+| **HUGGING FACE ENG TECHNICAL DATA**   | [HUGGING FACE TECHNICAL DATA  ](https://huggingface.co/pranavdaware/speecht5_tts_technical_train2) |
+| **HUGGING FACE MARATHI TTS**          | [HUGGING FACE MARATHI TTS ](https://huggingface.co/pranavdaware/speecht5_tts_marathi_train2)       |
+| **REPORT**                            | [REPORT](https://huggingface.co/pranavdaware/speecht5_tts_marathi_train2)                          |
+
+
+
+
+
+
+
+
+
+
+| :label: **Field**        | :page_facing_up: **Description**                     |                                   
+|--------------------------|-----------------------------------------------------|                                        
 | **📚 Library Name**       | `transformers`                                      |
 | **🌐 Language**           | `en`                                                |
 | **📄 License**            | `mit`                                               |
