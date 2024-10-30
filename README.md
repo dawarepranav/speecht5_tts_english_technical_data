@@ -3,7 +3,7 @@
 | **MARATHI TTS GITHUB LINK  LINK**                | [MARATHI TTS REPO](https://github.com/dawarepranav/speechT5_marathi_finetuned-)         |
 | **HUGGING FACE ENG TECHNICAL DATA**   | [HUGGING FACE TECHNICAL DATA  ](https://huggingface.co/pranavdaware/speecht5_tts_technical_train2) |
 | **HUGGING FACE MARATHI TTS**          | [HUGGING FACE MARATHI TTS ](https://huggingface.co/pranavdaware/speecht5_tts_marathi_train2)       |
-| **REPORT**                            | [REPORT](https://huggingface.co/pranavdaware/speecht5_tts_marathi_train2)                          |
+| **REPORT**                            | [REPORT](https://github.com/dawarepranav/speecht5_tts_english_technical_data/blob/main/A%20Technical%20Report.docx) |
 
 
 
