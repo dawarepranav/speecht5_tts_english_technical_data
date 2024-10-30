@@ -34,7 +34,18 @@ The *SpeechT5 TTS Technical Train2* is built on the *SpeechT5* architecture and 
 📚 *Dataset*: Custom (specific details to be provided)
 
 ---
+## Fine-Tuning Code
 
+The fine-tuning code is available in the following Jupyter Notebook:
+
+**[SpeechT5 TTS Fine-Tuning Code](https://github.com/dawarepranav/speecht5_tts_english_technical_data/blob/main/train2_TECHNICAL_TERMS__SpeechT5_TTS_Fine_tuning_%20(1).ipynb)**
+
+This notebook includes:
+- Model setup and configuration.
+- Loading the technical vocabulary dataset.
+- Training and optimization steps for enhanced pronunciation of technical terms.
+
+  
 ## 🔧 Intended Uses & Limitations
 
 ### ✅ *Primary Use Cases:*
